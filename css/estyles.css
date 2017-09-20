@@ -1,0 +1,107 @@
+body{
+  background: black;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+}
+#header-container-fluid{
+  background-color: #0174DF;
+}
+.container-fluid {
+  padding-top: 50px;
+}
+.row-noob{
+
+  margin-top:60px;
+  margin-left: 20px;
+  background: black;
+  text-decoration-color: black;
+  color:white;
+}
+.contiene{
+  width: 95%;
+  height: 25%;
+  
+}
+.contima{
+  width: 180px;
+  float: left;
+  margin: 25px;
+  margin-top: 15px;
+  background: #0174DF;
+   border: 3px solid white;
+    border-radius: 10px;
+}
+.img1{
+  margin: 14px;
+}
+.like{
+  width: 5%;
+  height: 5%;
+  margin-left: 75px;
+}
+.textos{
+  border: 3px solid white;
+  width: 70%;
+  float: right;
+  margin-top: 2em;
+  margin-right: 30px;
+  background: #0174DF;
+  padding: 7px;
+  border-radius: 10px;
+}
+.centrar{
+
+
+}
+.registre{
+  background: #0174DF;
+  width: 986px;
+  margin-top: 10px;
+}
+.noobster{
+  margin:10px;
+}
+.cursos{
+  border: 1px solid red;
+  background: #fff;
+  color: green;
+  height: 50px;
+  text-align: center;
+}
+.cursos:hover{
+  background:#92E566; 
+}
+.difi{
+  width: 100%;
+  margin-top: 13px;
+  border: 0px;
+}
+.difi:hover{
+  text-align: center;
+  background: #92E566;
+  border:0px;
+
+}
+.menu1{
+  color: #000;
+  background: #fff;
+  height: 50px;
+  padding: 10px;
+  width: 100%;
+  text-decoration: none;
+}
+.menu1:hover{
+  background: #92E566;
+
+}
+.lista{
+  background-color: #fff;
+  width: 100%;
+  margin: 0;
+}
+.item{
+  
+  text-decoration: none;
+  color: #000;
+  width: 100%;
+}

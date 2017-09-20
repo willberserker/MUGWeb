@@ -1,0 +1,11 @@
+.fixed-top{
+  width: 74.5%;
+  background: #0174DF;
+  color:white;
+  height: 60px;
+}
+.navbar-brand{
+	color: white;
+	width: 150px;
+	text-align: center;
+}
